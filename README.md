@@ -2,7 +2,7 @@
 
 Unrelated Mod to the Hades 1 modpack. Just slightly inspired by it is all.
 
-This is a modular Hades II modpack. Every module here can either be installed individually or part of the pack. It brings together first-hammer selection, boonless route controls, in-game LiveSplit-style timing, quality-of-life options, gameplay-flow quality-of-life adjustments, minor balance/description fixes, and Surface route adjustments under one shared Speedrun settings window.
+This is a modular Hades II modpack. Every module here can either be installed individually or part of the pack. It brings together first-hammer selection, boonless route controls, infinite Death Defiance practice, in-game LiveSplit-style timing, quality-of-life options, gameplay-flow quality-of-life adjustments, minor balance/description fixes, and Surface route adjustments under one shared Speedrun settings window.
 
 ## How To Open The Settings
 
@@ -167,6 +167,16 @@ Presets cover common route shapes:
 - Converting hammers as part of the full Shared Wealth preset
 
 <img src="https://raw.githubusercontent.com/h2pack-speedrun/adamantSpeedrun-Boonless/main/assets/presets.png" width="60%"/>
+
+### InfiniDD
+
+Adds an infinite Death Defiance practice mode for testing recovery, survival, and late-run routing after all real Death Defiances are gone.
+
+Current options:
+
+- **Practice Recovery:** Configures how much health and magick a practice Death Defiance restores.
+- **Death Counter Overlay:** Shows a right-side counter for practice Death Defiances used in the current run.
+- **Practice Slowdown:** Optionally slows the player, enemies, projectiles, and world objects for a short duration after the base Death Defiance sequence finishes.
 
 
 ## How To Use
